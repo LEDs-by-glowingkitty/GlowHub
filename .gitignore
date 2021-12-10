@@ -1,0 +1,15 @@
+.DS_store
+pyvenv/
+__pycache__
+stripe_ID.txt
+micro_sd_backup
+node_modules
+.pio/
+.vscode/
+*.shapr
+wifi_credentials.json
+*_autosave
+*.pwmx
+*.step
+*.mp4
+*.icloud
