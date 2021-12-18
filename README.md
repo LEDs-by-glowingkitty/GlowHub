@@ -53,7 +53,7 @@ Next, place all the electronics in the top case.
 
 ![connect the data wires to the esp32](readme/wires_leds_to_esp32.jpg)
 
-Now let's connect the USB-C ports for the LEDs / GlowTubes with the ESP32. Start by adding solder to all pads on the USB-C boards. And make sure the D- and D+ pads are connected with solder. Then take (ideally green) wires and connect the D pads of the USB-C boards with the pins 22,21,17 and 16 of the ESP32.
+Now let's connect the USB-C ports for the LEDs / GlowTubes with the ESP32. Start by adding solder to all pads on the USB-C boards. And make sure the D- and D+ pads are connected with solder. Then take (ideally green) wires and connect the D-pads of the USB-C boards with the pins 22,21,17 and 16 of the ESP32.
 
 ### **Step 6:** Connect the USB-C LED ports with voltage & ground
 
